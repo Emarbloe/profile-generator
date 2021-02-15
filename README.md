@@ -1,3 +1,8 @@
+<<h1 align="center">Profile Generator </h1>
+
+**Live application walkthrough at: https:https://drive.google.com/file/d/1tv3Vcyd7SnyvNPgmiVMcFxeOd5ooJFok/view  **
+
+
 # Employee-Summary
  Software engineering team generator command line application.
 
@@ -5,8 +10,9 @@
 As a manager I want to generate a webpage that displays my team's basic info so that I have quick access to emails and GitHub profiles
 
 # Acceptance Requirements
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for my team members and their information
+
+*GIVEN a command-line application that *accepts user input
+*WHEN I am prompted for my team members and *their information
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input
 WHEN I click on an email address in the HTML
 THEN my default email program opens and populates the TO field of the email with the address
