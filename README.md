@@ -6,10 +6,10 @@ As a manager I want to generate a webpage that displays my team's basic info so 
 
 # Demo
 
-![alt text](build/images/demo.gif)
+![alt text](build/images/demo.png)
 
 
-![alt text](build/images/Teamscreenshoot.PNG)
+![alt text](build/images/Teamscreeshoot.PNG)
 
 
 
